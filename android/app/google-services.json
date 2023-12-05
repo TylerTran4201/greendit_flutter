@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670124339864",
+    "project_id": "greendit-86942",
+    "storage_bucket": "greendit-86942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670124339864:android:a84d6224cc3b54532516ed",
+        "android_client_info": {
+          "package_name": "com.example.greendit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAqziANG8uML4BOC3C2D4rJBQCd9uL3fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

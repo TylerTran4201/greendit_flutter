@@ -1,0 +1,85 @@
+{
+  "electricDevices":
+  [
+    {
+      "device": "electric car",
+      "emission": 20
+    },
+    {
+      "device": "electric heater",
+      "emission": 500
+    },
+    {
+      "device": "electric oven",
+      "emission": 300
+    },
+    {
+      "device": "laptop",
+      "emission": 10
+    },
+    {
+      "device": "smartphone",
+      "emission": 5
+    },
+    {
+      "device": "tv",
+      "emission": 15
+    },
+    {
+      "device": "refrigerator",
+      "emission": 50
+    },
+    {
+      "device": "air conditioner",
+      "emission": 200
+    },
+    {
+      "device": "washing machine",
+      "emission": 30
+    },
+    {
+      "device": "dishwasher",
+      "emission": 40
+    },
+    {
+      "device": "desktop computer",
+      "emission": 25
+    },
+    {
+      "device": "tablet",
+      "emission": 7
+    },
+    {
+      "device": "microwave oven",
+      "emission": 35
+    },
+    {
+      "device": "hair dryer",
+      "emission": 60
+    },
+    {
+      "device": "electric kettle",
+      "emission": 12
+    },
+    {
+      "device": "printers",
+      "emission": 18
+    },
+    {
+      "device": "game console",
+      "emission": 22
+    },
+    {
+      "device": "router",
+      "emission": 8
+    },
+    {
+      "device": "toaster",
+      "emission": 9
+    },
+    {
+      "device": "curling iron",
+      "emission": 25
+    }
+  ]
+}
